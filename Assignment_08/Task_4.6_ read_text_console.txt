@@ -1,0 +1,7 @@
+
+
+Hello, this is  a console_text_file
+readable when open with read mode..
+Python is awesome!
+
+
